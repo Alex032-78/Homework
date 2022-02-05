@@ -3,7 +3,7 @@
 Console.Clear();
 double a, sqw=0;
 string s;
-Console.Write("Введите целое число до которого необходимо подсчитать сумму чётных чисел а=");
+Console.Write("Введите число, которое необходимо возвести в квадрат а=");
 s=Console.ReadLine();
 a=Convert.ToDouble(s);
 
