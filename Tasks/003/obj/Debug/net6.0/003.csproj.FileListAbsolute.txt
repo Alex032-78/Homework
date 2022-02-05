@@ -1,0 +1,15 @@
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\bin\Debug\net6.0\003.exe
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\bin\Debug\net6.0\003.deps.json
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\bin\Debug\net6.0\003.runtimeconfig.json
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\bin\Debug\net6.0\003.dll
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\bin\Debug\net6.0\ref\003.dll
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\bin\Debug\net6.0\003.pdb
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\obj\Debug\net6.0\003.csproj.AssemblyReference.cache
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\obj\Debug\net6.0\003.GeneratedMSBuildEditorConfig.editorconfig
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\obj\Debug\net6.0\003.AssemblyInfoInputs.cache
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\obj\Debug\net6.0\003.AssemblyInfo.cs
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\obj\Debug\net6.0\003.csproj.CoreCompileInputs.cache
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\obj\Debug\net6.0\003.dll
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\obj\Debug\net6.0\ref\003.dll
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\obj\Debug\net6.0\003.pdb
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\003\obj\Debug\net6.0\003.genruntimeconfig.cache
