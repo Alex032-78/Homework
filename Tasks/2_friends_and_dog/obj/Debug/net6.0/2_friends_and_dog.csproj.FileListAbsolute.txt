@@ -1,0 +1,15 @@
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\bin\Debug\net6.0\2_friends_and_dog.exe
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\bin\Debug\net6.0\2_friends_and_dog.deps.json
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\bin\Debug\net6.0\2_friends_and_dog.runtimeconfig.json
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\bin\Debug\net6.0\2_friends_and_dog.dll
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\bin\Debug\net6.0\ref\2_friends_and_dog.dll
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\bin\Debug\net6.0\2_friends_and_dog.pdb
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\obj\Debug\net6.0\2_friends_and_dog.csproj.AssemblyReference.cache
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\obj\Debug\net6.0\2_friends_and_dog.GeneratedMSBuildEditorConfig.editorconfig
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\obj\Debug\net6.0\2_friends_and_dog.AssemblyInfoInputs.cache
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\obj\Debug\net6.0\2_friends_and_dog.AssemblyInfo.cs
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\obj\Debug\net6.0\2_friends_and_dog.csproj.CoreCompileInputs.cache
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\obj\Debug\net6.0\2_friends_and_dog.dll
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\obj\Debug\net6.0\ref\2_friends_and_dog.dll
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\obj\Debug\net6.0\2_friends_and_dog.pdb
+E:\Systems\Desktop\GeekBrains C#\Homework\Tasks\2_friends_and_dog\obj\Debug\net6.0\2_friends_and_dog.genruntimeconfig.cache
